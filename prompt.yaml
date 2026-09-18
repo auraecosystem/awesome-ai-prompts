@@ -1,0 +1,25 @@
+---
+id: aura.ui.watch.hero
+title: Luxury Watch Landing Page
+
+provider:
+  - lmlm
+  - gpt5-mini
+  - gemini
+
+variables:
+  brand: Aura
+  framework: Next.js
+
+tags:
+  - ui
+  - threejs
+  - glsl
+
+difficulty: advanced
+version: 1.0
+---
+
+# Prompt
+
+Create a premium luxury landing page...
